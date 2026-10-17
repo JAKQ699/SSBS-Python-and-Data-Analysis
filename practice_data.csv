@@ -1,0 +1,11 @@
+# Company Report: Global Sales Data,,,,
+# Generated on: 2026-10-11,,,,
+# Note: Country codes follow ISO format (NA = North America region code),,,,
+Transaction_ID,Date,Region,Sales_Amount,Status
+TXN001,1/15/2026,NA,1500.5,Completed
+TXN002,1/16/2026,EU,,Pending
+TXN003,1/17/2026,AS,2300,MISSING
+,,,,
+TXN004,1/18/2026,NA,950,Completed
+TXN005,1/19/2026,SA,-999,Completed
+TXN006,1/20/2026,AF,3100.25,Pending
